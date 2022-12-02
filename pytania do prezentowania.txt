@@ -1,0 +1,30 @@
+Pytanie 1
+Który znacznik należy do znaczników definiujących listy w języku HTML?
+A. <ul> <--
+B. <td>
+C. <tr>
+D. <th>
+Pytanie 2
+Aby zmodyfikować strukturę tabeli w bazie MySQL należy wykonać polecenie
+A. UPDATE
+B. ALTER TABLE <--
+C. INSERT INTO
+D. GRANT
+Pytanie 3 
+W języku JavaScript poprawnie nadana zmienna to
+A. imię2
+B. #imie
+C. imie2 <--
+D. imię%
+Pytanie 4
+Zadaniem funkcji PHP o nazwie mysql_select_db() jest
+A. pobrać dane z bazy danych na podstawie kwerendy
+B. określić bazę, z której będą pobierane dane <--
+C. określić tabelę, z której będą pobierane dane
+D. połączyć bazę danych z serwerem SQL
+Pytanie 5
+W języku SQL przywilej SELECT polecenia GRANT pozwala użytkownikowi baz danych na
+A. odczyt danych z tabeli <--
+B. tworzenie tabeli
+C. modyfikowanie danych w tabeli
+D. usunięcie danych z tabeli
